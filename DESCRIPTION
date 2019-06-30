@@ -1,5 +1,5 @@
 Package: rrdemoVersion1
-Title: A demonstration of a minimal reproducible research compendium
+Title: A demonstration of a reproducible research compendium
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Mark",
