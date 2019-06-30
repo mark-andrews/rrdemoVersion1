@@ -1,0 +1,14 @@
+Package: rrdemoVersion1
+Title: A demonstration of a minimal reproducible research compendium
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Mark",
+           family = "Andrews",
+           role = c("aut", "cre"),
+           email = "mark.andrews@ntu.ac.uk",
+           comment = c(ORCID = "https://orcid.org/0000-0001-7499-9521"))
+Description: A demonstration of a reproducible research compendium.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1

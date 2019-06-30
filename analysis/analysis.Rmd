@@ -1,0 +1,20 @@
+---
+title: "A Reproducible Data Analysis Demonstration"
+author: "Mark Andrews"
+date: "30 June 2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      message = FALSE,
+                      warning = FALSE)
+```
+
+```{r}
+# If `rrdemoVersion1` is not installed, 
+# then install it with 
+# devtools::install_github("mark-andrews/rrdemo")
+library("rrdemoVersion1")
+```
+
